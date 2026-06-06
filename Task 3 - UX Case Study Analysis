@@ -1,0 +1,31 @@
+UX CASE STUDY ANALYSIS OF AMAZON MOBILE APPLICATION:
+Introduction:
+This case study analyzes the Amazon Mobile Application to identify usability issues and suggest improvements that enhance the overall user experience.
+User Flow:
+Open App → Search Product → View Product → Add to Cart → Checkout → Payment → Order Confirmation
+Identified Usability Issues
+1. Information Overload
+The homepage contains too many advertisements, banners, and recommendations, making it difficult for users to focus on their main task.
+2. Complex Navigation
+Important features such as Orders and Wishlist are not easily accessible and require extra clicks.
+3. Product Comparison Difficulty
+Users must open multiple product pages to compare specifications and prices.
+4. Lengthy Checkout Process
+The checkout process includes several steps, which may lead to cart abandonment.
+Proposed Improvements:
+1. Simplified Homepage
+Reduce unnecessary promotional content and highlight relevant products.
+2. Improved Navigation
+Add a clear bottom navigation bar with Home, Search, Cart, Orders, and Profile options.
+3. Product Comparison Feature
+Provide a built-in comparison tool for comparing products side by side.
+4. Faster Checkout
+Implement a simplified one-page checkout process.
+Expected Impact:
+Improvement	Expected Result
+Clean Homepage	Faster product discovery
+Better Navigation	Easier access to features
+Product Comparison Tool	Faster decision making
+Simplified Checkout	Reduced cart abandonment
+Conclusion:
+The Amazon Mobile Application provides a powerful shopping experience but can be improved through a cleaner interface, better navigation, easier product comparison, and a simplified checkout process. These changes will improve usability, increase user satisfaction, and enhance the overall user experience.
